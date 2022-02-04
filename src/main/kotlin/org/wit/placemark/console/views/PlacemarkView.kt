@@ -16,7 +16,7 @@ class PlacemarkView {
         val input: String?
 
         println(""" 
-         |MAIN MENU
+         |Main Menu - Placemark
          |   1. Add Placemark
          |   2. Update Placemark
          |   3. List All Placemarks

@@ -12,7 +12,7 @@ class PlacemarkController {
     val logger = KotlinLogging.logger {}
 
     init {
-        logger.info { "Launching Placemark Console App" }
+        logger.info { "Launching Placemark Console 3.0 App" }
         println("Placemark Kotlin App Version 3.0")
     }
 
